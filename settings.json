@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friendlysmp-aG2c.aternos.me",
-    "port": 42016,
+    "ip": "BATTLEGROUND-X5vk.aternos.me:12097",
+    "port": 12097,
     "version": "",
     "try-creative": false
   },
